@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "Calamari",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "calamari",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "A chrome extension to handle bulk merging on milestones",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "Calamari",
+    "description": "The description of the application"
+  }
+}
