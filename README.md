@@ -2,6 +2,10 @@
 
 A chrome extension to handle bulk merging on milestones. 
 
+
+![screenshot](https://raw.githubusercontent.com/securingsincity/chrome-calamari/master/artworks/Screenshot_640x400.png)
+
+
 ## Installation
 
 	$ npm install
@@ -11,6 +15,7 @@ A chrome extension to handle bulk merging on milestones.
 * Add that access token to the config.js 
 * If you are using github enterprise you will need to modify the config page as well the manifest to match the url path
 * Run `$ gulp --watch` and load the `dist`-directory into chrome.
+
 
 
 ## Entryfiles (bundles)
